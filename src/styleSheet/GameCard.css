@@ -1,0 +1,19 @@
+.cardContainer{
+    width: 250px;
+    border: 1px solid black;
+    margin: 5px;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: rgb(240, 240, 240);
+}
+.cardImg{
+    width: 100%;
+    height: 150px;
+    
+}
+.cardTitle{
+ text-align: center;
+}
